@@ -8,8 +8,8 @@ Happy Advent!
 
 ## Install
 
-1. Clone repo
-2. `yarn install`
+1. `git clone git@github.com:bpiggin/advent-of-code-typescript-starter.git`
+2. `cd advent-of-code-typescript-starter && yarn install`
 
 ## Features
 
