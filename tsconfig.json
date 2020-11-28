@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "strict": true,
+    "lib": ["dom", "es2019"]
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
