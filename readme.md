@@ -1,9 +1,5 @@
 # Typescript Advent of Code Starter
 
-## Why?
-
-Writing input parsing and project structure boilerplate every day is annoying. Having instant test feedback is really useful. E.g.
-
 Basic template project for convenient Advent of Code problem solving! Project contains latest version of TS and Prettier for auto code formatting. Jest tests for instant feedback and debugging.
 
 Bash script included to auto generate boilerplate and project structure for each day.
@@ -12,9 +8,15 @@ The `parseInput` function will also try to parse the puzzle input for you but be
 
 Happy Advent!
 
+## Why?
+
+Writing input parsing and project structure boilerplate every day is annoying. Having instant test feedback is really useful. E.g.
+
+![](example.gif)
+
 ## Instant test feedback
 
-Run `yarn test` which will start jest in watch mode. Run in vscode terminal for instant feedback. By default it will run for files that have changed in git. Commit previous days so they don't run anymore.
+Run `yarn test` which will start jest in watch mode. Run in vscode terminal for instant feedback. By default it will run for files that have changed in git. Commit previous days so their tests don't run anymore.
 
 ## New day boilerplate
 
@@ -23,8 +25,8 @@ Then run `yarn day {day}` e.g. `yarn day 2` will create a `day2` folder with `da
 
 ## Debugging
 
-The `Debug Jest Tests` debug config will run your jest tests and let you breakpoint through.
+The `Debug Jest Tests` debug config will run your jest tests and let you breakpoint through them.
 
 ## Convenience methods
 
-`log()` will log to stdout but without the annoying linenumbers from jest. If you want these use `console.log()`.
+`log()` will log to stdout but without the annoying linenumbers from jest. If you want linenumbers use `console.log()`.
