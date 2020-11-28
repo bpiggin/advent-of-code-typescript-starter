@@ -4,10 +4,10 @@
     "compile": "tsc",
     "day": "src/utils/newDay.sh"
   },
-  "name": "advent-of-code-2020",
+  "name": "advent-of-code-typescript-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "benp",
+  "author": "https://github.com/bpiggin",
   "license": "MIT",
   "dependencies": {
     "jest": "^26.6.3",
