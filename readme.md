@@ -12,7 +12,7 @@ Happy Advent!
 
 Writing input parsing and project structure boilerplate every day is annoying. Having instant test feedback is really useful. E.g.
 
-![](example.gif)
+![](misc/example.gif)
 
 ## Instant test feedback
 
