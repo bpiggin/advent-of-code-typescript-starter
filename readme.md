@@ -4,6 +4,8 @@ Basic template project for lightning fast and bug free Advent of Code problem so
 
 https://adventofcode.com/2020
 
+Happy Advent!
+
 ## Features
 
 **Prettier:** Auto formatting!
@@ -16,12 +18,9 @@ https://adventofcode.com/2020
 
 **Debug Config:** Breakpoint through your code with no compile step!
 
-
-Happy Advent!
-
 ## Why?
 
-Writing input parsing and project structure boilerplate every day is annoying. Having instant test feedback is really useful. E.g.
+Writing input parsing and project structure boilerplate every day is annoying. Having instant test feedback is really useful.
 
 ![](misc/example.gif)
 
