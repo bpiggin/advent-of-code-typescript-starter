@@ -6,6 +6,11 @@ https://adventofcode.com/2020
 
 Happy Advent!
 
+## Install
+
+1. Clone repo
+2. `yarn install`
+
 ## Features
 
 **Prettier:** Auto formatting!
