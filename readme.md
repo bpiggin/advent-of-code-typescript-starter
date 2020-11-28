@@ -1,6 +1,8 @@
-# Advent of Code Typescript Starter
+# Advent of Code Typescript Starter 🎄
 
 Basic template project for lightning fast and bug free Advent of Code problem solving!
+
+https://adventofcode.com/2020
 
 ## Features
 
