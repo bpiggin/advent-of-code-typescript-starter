@@ -1,10 +1,21 @@
-# Typescript Advent of Code Starter
+# Advent of Code Typescript Starter 🎄
 
-Basic template project for convenient Advent of Code problem solving! Project contains latest version of TS and Prettier for auto code formatting. Jest tests for instant feedback and debugging.
+Basic template project for lightning fast and bug free Advent of Code problem solving!
 
-Bash script included to auto generate boilerplate and project structure for each day.
+https://adventofcode.com/2020
 
-The `parseInput` function will also try to parse the puzzle input for you but beware! I have no idea what formats the inputs will be in this year...
+## Features
+
+**Prettier:** Auto formatting!
+
+**Jest:** Instant test feedback!
+
+**Auto Generated Boilerplate:** Script to create new folder with test code and functions for each day!
+
+**Input Parser:** Parse problem inputs easily!
+
+**Debug Config:** Breakpoint through your code with no compile step!
+
 
 Happy Advent!
 
@@ -30,3 +41,7 @@ The `Debug Jest Tests` debug config will run your jest tests and let you breakpo
 ## Convenience methods
 
 `log()` will log to stdout but without the annoying linenumbers from jest. If you want linenumbers use `console.log()`.
+
+`parseInput` function will also try to parse the puzzle input for you but beware! I have no idea what formats the inputs will be in this year...
+
+`logAnswer` will print your problem answer from the jest tests with `----` to make it super visible.
