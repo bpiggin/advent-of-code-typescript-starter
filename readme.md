@@ -44,7 +44,7 @@ The `Debug Jest Tests` debug config will run your jest tests and let you breakpo
 
 ## Convenience methods
 
-`log()` will log to stdout but without the annoying linenumbers from jest. If you want linenumbers use `console.log()`.
+`log()` will log to stdout but without the annoying line numbers from jest. If you want line numbers use `console.log()`.
 
 `parseInput` function will also try to parse the puzzle input for you but beware! I have no idea what formats the inputs will be in this year...
 
