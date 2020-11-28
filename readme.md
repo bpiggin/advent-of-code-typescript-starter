@@ -13,15 +13,15 @@ Happy Advent!
 
 ## Features
 
-**Prettier:** Auto formatting!
+💅 **Prettier:** Auto formatting!
 
-**Jest:** Instant test feedback!
+🃏 **Jest:** Instant test feedback!
 
-**Auto Generated Boilerplate:** Script to create new folder with test code and functions for each day!
+⚙️ **Auto Generated Boilerplate:** Script to create new folder with test code and functions for each day!
 
-**Input Parser:** Parse problem inputs easily!
+✍️ **Input Parser:** Parse problem inputs easily!
 
-**Debug Config:** Breakpoint through your code with no compile step!
+🐛 **Debug Config:** Breakpoint through your code with no compile step!
 
 ## Why?
 
