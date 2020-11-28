@@ -1,6 +1,7 @@
 {
   "scripts": {
     "test": "jest --watch",
+    "test:all": "jest",
     "compile": "tsc",
     "day": "scripts/newDay.sh"
   },
