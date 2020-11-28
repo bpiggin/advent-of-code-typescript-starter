@@ -2,7 +2,7 @@
   "scripts": {
     "test": "jest --watch",
     "compile": "tsc",
-    "day": "src/utils/newDay.sh"
+    "day": "scripts/newDay.sh"
   },
   "name": "advent-of-code-typescript-starter",
   "version": "1.0.0",
