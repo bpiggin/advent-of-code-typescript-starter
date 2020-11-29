@@ -19,8 +19,8 @@ test('Provided test cases', () => {
 
 test('Returns an answer', () => {
   logAnswer(day$1());
-  expect(typeof day2()).toBe('number');
-  expect(day2()).toBeGreaterThan(0);
+  expect(typeof day$1()).toBe('number');
+  expect(day$1()).toBeGreaterThan(0);
 });" >> src/day$1/day$1.test.ts
 
 echo "import { parseInput } from '../utils/input';

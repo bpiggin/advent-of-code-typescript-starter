@@ -16,7 +16,6 @@ https://adventofcode.com/2020
 
 **Debug Config:** Breakpoint through your code with no compile step!
 
-
 Happy Advent!
 
 ## Why?
@@ -31,8 +30,9 @@ Run `yarn test` which will start jest in watch mode. Run in vscode terminal for 
 
 ## New day boilerplate
 
-You will need to run `chmod +x newDay.sh` so you can run it.
+You will need to run `chmod +x newDay.sh && chmod +x partTwo.sh` so you can run the scripts.
 Then run `yarn day {day}` e.g. `yarn day 2` will create a `day2` folder with `day2.ts`, `day2.test.ts` and `day2.data.ts` files with boilerplate code.
+`yarn part2 {day}` will generate `day1.part2.ts` and `day1.part2.test.ts` files.
 
 ## Debugging
 

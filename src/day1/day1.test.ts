@@ -1,12 +1,12 @@
 import { logAnswer } from '../utils/logging';
-import { calculateFuelForModule, day1 } from './day1';
+import { calculateFuelForMass, day1 } from './day1';
 import { data } from './day1.data';
 
 test('Provided test cases', () => {
-  expect(calculateFuelForModule(12)).toBe(2);
-  expect(calculateFuelForModule(14)).toBe(2);
-  expect(calculateFuelForModule(1969)).toBe(654);
-  expect(calculateFuelForModule(100756)).toBe(33583);
+  expect(calculateFuelForMass(12)).toBe(2);
+  expect(calculateFuelForMass(14)).toBe(2);
+  expect(calculateFuelForMass(1969)).toBe(654);
+  expect(calculateFuelForMass(100756)).toBe(33583);
 });
 
 test('Returns an answer', () => {
